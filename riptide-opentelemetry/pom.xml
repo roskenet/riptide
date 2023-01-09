@@ -18,7 +18,7 @@
 
     <properties>
         <opentelemetry.version>1.13.0</opentelemetry.version>
-        <opentelemetry-semconv.version>${opentelemetry.version}-alpha</opentelemetry-semconv.version>
+        <opentelemetry-semconv.version>1.22.0-alpha</opentelemetry-semconv.version>
     </properties>
 
     <dependencies>
